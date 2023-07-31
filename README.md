@@ -3,7 +3,7 @@
 using namespace std;
 
 bool solve(int arr[],int target){
-    int n=arr.size();
+    int n=arr,size();
     sort(arr,arr+n);
     int i=0,j=n-1;
     while(i<j){
